@@ -9,7 +9,13 @@ Dicionário de ferramentas para Engenharia de dados
 ## Apache Spark  
 ## Apache Kafka
 ## Apache Kafka connect
-## Apache Kafka Strimzi Operator
+## Apache Superset
+> https://superset.apache.org
+> Apache Superset is a modern data exploration and visualization platform
+## Strimzi  
+> https://strimzi.io/
+> https://strimzi.io/documentation/
+> Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations
 ## AWS EMR  
 ## AWS Glue  
 > https://lalali.com
@@ -24,10 +30,23 @@ Dicionário de ferramentas para Engenharia de dados
 ## AWS RDS
 ## Hadoop  
 ## Ksql
-## KsqlDB
+## KsqlDB  
+> https://ksqldb.io/
+> The database purpose-built for stream processing applications
 ## Kubernetes
+## Kubectl
+
+## Kubectl cheatsheet
+> https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
+## Kubectx
 ## EKS
 ## Python
 ## GitHub
 ## GitLab
 ## Postgres
+## Confluent
+> https://confluent.io
+> You love Apache Kafka, but not managing it. Our fully managed service means your best people can now focus on delivering value to your customers.
+## Docker
+> https://www.docker.com
+> A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
