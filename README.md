@@ -50,3 +50,8 @@ Dicionário de ferramentas para Engenharia de dados
 ## Docker
 > https://www.docker.com
 > A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+
+# Artigos
+
+## Arquitetura de Software: Explicando Stream Processing, Event Source e Data Streaming  
+> https://oieduardorabelo.medium.com/arquitetura-de-software-explicando-stream-processing-event-source-e-data-streaming-b0c479101e75  
