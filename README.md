@@ -114,3 +114,5 @@ and integrate systems more effectively
 > https://www.confluent.io/blog/publishing-apache-kafka-new-york-times  
 ### Kubectl cheatsheet
 > https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/  
+### Kafka-Python explained in 10 lines of code  
+> https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1  
