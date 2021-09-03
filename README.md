@@ -8,6 +8,7 @@ Pequeno Dicionário de ferramentas para Engenharia de dados
 > Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency
 ## Apache Spark  
 > https://spark.apache.org/  
+> https://cloud.google.com/learn/what-is-apache-spark?hl=pt-br#:~:text=O%20Apache%20Spark%20%C3%A9%20um,em%20diversas%20fontes%20de%20dados  
 > Apache Spark™ is a unified analytics engine for large-scale data processing.
 ## Apache Kafka
 > https://kafka.apache.org/  
