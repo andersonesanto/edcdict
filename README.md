@@ -117,3 +117,5 @@ and integrate systems more effectively
 > https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/  
 ### Kafka-Python explained in 10 lines of code  
 > https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1  
+### CATALYST ANALYST: A DEEP DIVE INTO SPARK’S OPTIMIZER  
+> https://www.unraveldata.com/resources/catalyst-analyst-a-deep-dive-into-sparks-optimizer/  
